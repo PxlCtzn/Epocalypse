@@ -1,0 +1,12 @@
+.idea/**
+Inspirations/**
+assets/sprites
+
+assets/fonts/ABYZ
+assets/fonts/genown
+
+assets/fonts/ae_systematic/original
+assets/fonts/swfit/original
+
+**.pyxel
+**.bmfc
