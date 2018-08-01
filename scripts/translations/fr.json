@@ -1,0 +1,9 @@
+{
+  "MainMenu": {
+    "start":    "Commencer",
+    "continue": "Continuer",
+    "restart":  "Recommencer",
+    "options":  "Options",
+    "credit":   "Crédits"
+  }
+}
