@@ -1,2 +1,2 @@
-# Epocalypse
-A Massive Online Survival Game
+# Phaser 3 test project
+WIP
